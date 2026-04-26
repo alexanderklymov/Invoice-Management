@@ -1,6 +1,7 @@
 Online Invoicing System
 
 Overview
+
 This document describes the business requirements for an online invoicing system used by Company XYZ to manage employee invoices.
 
 Domain Entities
